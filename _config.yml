@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: blog.rickscherer.com
+description: The personal blog of Rick Scherer.
+logo: https://education.emc.com/content/emc/en-us/home/Master-Enterprise-Architect/_jcr_content/main_content/greybackground/grey_background/grid_copy/content-0-0/textimage/image.img.jpg/1518611411192.jpg
+show_downloads: true
+google_analytics: UA-6495038-3
