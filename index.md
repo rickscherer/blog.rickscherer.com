@@ -4,7 +4,7 @@ Honestly, I haven't decided what I'm going to do here quite yet.
 
 In the meantime feel free to visit some of my other sites:\
 [www.rickscherer.com](www.rickscherer.com)\
-[www.vmware.tips](www.vmware.tips)\
+[www.vmware.tips](www.vmware.tips)
 
 Or social sites:\
 [www.linkedin.com](www.linkedin.com/in/rickjscherer)\
